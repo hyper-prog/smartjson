@@ -9,6 +9,8 @@ In order to use it you have to get the package
 
 	go get github.com/hyper-prog/smartjson
 
+Check out the https://github.com/hyper-prog/smartyaml package to work with YAML
+
 Sample code:
 
 ```go
