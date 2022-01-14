@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/hyper-prog/smartjson.svg)](https://pkg.go.dev/github.com/hyper-prog/smartjson)
+
 SmartJSON - Go package to handle JSON
 ======================================
 
